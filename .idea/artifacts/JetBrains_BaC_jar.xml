@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JetBrains.BaC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JetBrains_BaC_jar</output-path>
+    <root id="archive" name="JetBrains.BaC.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JetBrains.BaC" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.8.0-alpha2/34fa1d87256bbdb376ae7f6fa7e479610cd07dce/slf4j-api-1.8.0-alpha2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.10.0/fec5797a55b786184a537abd39c3fa1449d752d6/log4j-api-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.10.0/8e4e0a30736175e31c7f714d95032c1734cfbdea/log4j-slf4j-impl-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.10.0/c90b597163cd28ab6d9687edd53db601b6ea75a1/log4j-core-2.10.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/resources/dictionary.txt" />
+    </root>
+  </artifact>
+</component>
